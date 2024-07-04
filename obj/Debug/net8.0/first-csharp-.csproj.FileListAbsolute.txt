@@ -1,0 +1,14 @@
+/home/johnlambert/Desktop/first-csharp-/bin/Debug/net8.0/first-csharp-
+/home/johnlambert/Desktop/first-csharp-/bin/Debug/net8.0/first-csharp-.deps.json
+/home/johnlambert/Desktop/first-csharp-/bin/Debug/net8.0/first-csharp-.runtimeconfig.json
+/home/johnlambert/Desktop/first-csharp-/bin/Debug/net8.0/first-csharp-.dll
+/home/johnlambert/Desktop/first-csharp-/bin/Debug/net8.0/first-csharp-.pdb
+/home/johnlambert/Desktop/first-csharp-/obj/Debug/net8.0/first-csharp-.GeneratedMSBuildEditorConfig.editorconfig
+/home/johnlambert/Desktop/first-csharp-/obj/Debug/net8.0/first-csharp-.AssemblyInfoInputs.cache
+/home/johnlambert/Desktop/first-csharp-/obj/Debug/net8.0/first-csharp-.AssemblyInfo.cs
+/home/johnlambert/Desktop/first-csharp-/obj/Debug/net8.0/first-csharp-.csproj.CoreCompileInputs.cache
+/home/johnlambert/Desktop/first-csharp-/obj/Debug/net8.0/first-csharp-.dll
+/home/johnlambert/Desktop/first-csharp-/obj/Debug/net8.0/refint/first-csharp-.dll
+/home/johnlambert/Desktop/first-csharp-/obj/Debug/net8.0/first-csharp-.pdb
+/home/johnlambert/Desktop/first-csharp-/obj/Debug/net8.0/first-csharp-.genruntimeconfig.cache
+/home/johnlambert/Desktop/first-csharp-/obj/Debug/net8.0/ref/first-csharp-.dll
